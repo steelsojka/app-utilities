@@ -9,6 +9,7 @@
   "author": "Steven Sojka",
   "license": "ISC",
   "dependencies": {
+    "lodash.get": "^3.7.0",
     "lodash.isfunction": "^3.0.6",
     "lodash.isobject": "^3.0.2",
     "lodash.isundefined": "^3.0.1"
